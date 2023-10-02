@@ -3,6 +3,10 @@
 <!--
 **annieradams/annieradams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+## Education 
+- BS in Statistics and Data Science from University of California, Santa Barbara
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
