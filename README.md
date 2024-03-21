@@ -8,6 +8,7 @@
 😄  **Pronouns:** *she/her* 
 
 👩‍💻 **Personal website:** [annieradams.github.io](https://annieradams.github.io/)
+
 📫 **Email:** adams.annie11@gmail.com
 
 ### What am I up to? 👩🏼‍🎓 🚵🏻‍♀️ 🌎
