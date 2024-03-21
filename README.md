@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi! I'm Annie Adams</h1>
+<h1 align="center"> Hi! I'm Annie Adams! </h1>
 
 <h3 align="center"> Master of Environmental Data Science Candidate at University of California, Santa Barbara (UCSB) 🌞 </h3>
 
