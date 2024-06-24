@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi! I'm Annie Adams! </h1>
 
-<h3 align="center"> Master of Environmental Data Science Candidate at University of California, Santa Barbara (UCSB) 🌞 </h3>
+<h3 align="center"> Recent Master of Environmental Data Science Graduate from the University of California, Santa Barbara (UCSB) 🌞 </h3>
 
 <br>
 
@@ -13,7 +13,7 @@
 
 ### What am I up to? 👩🏼‍🎓 🚵🏻‍♀️ 🌎
 
-I am currently finishing up my master's program and will be graduating in June 2024! I have been learning lots in the areas of machine learning, data visualization, statistics, and environmental modeling! I am extremely motivated by the capabilities of data science and looking forward to doing meaningful work after I graduate! 
+I have recently graduated from the Unvierstity of California, Santa Barbara, receiving my Masters of Science in Environmental Data Science! I have learned lots in the areas of machine learning, data visualization, statistics, and environmental modeling! I am extremely motivated by the capabilities of data science and looking forward to doing meaningful work iin my career! 
 
 In my spare time, I love to bike, hike, and camp! I am so lucky to live on the California Coast, where the sun is always shining (aside from some May gray and June gloom ⛅️). I love to travel abroad and try to visit a National Park in each new country I visit! 
 
