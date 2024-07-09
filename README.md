@@ -20,14 +20,14 @@ In my spare time, I love to bike, hike, and camp! I am so lucky to live on the C
  I could spend an unlimited amount on different data science related passion projects that pique my interest! I am currently working to build an interactive dashboard of my personal Strava data, using the `{strava}` package in R. I would eventually love to do the same with books I have read and am currently reading, using my Goodreads data! My favorite thing about data science is that I can apply it to anything and everything that interests me. 
 
  ### Experience 🐠 🌊
-
+- Teaching Assistant in the Department of Computer Science @ University of California, Santa Barbara ( 2023-2024)
 - Data Storytelling Assistnat @ California Cooperative Oceanic Fisheries Investigations (2022- 2023)
 - Data Science Fellow @ University of California, Santa Barbara ( 2021-2022)
 
 ### Education 💻 📓
 
-- MS in Environmental Data Science @ UC Santa Barbara (expected 2024)
-- BS in Statistics & Data Science with a minor in Feminist Studies  @ UC Santa Barbara(2022)
+- MS in Environmental Data Science @ UC Santa Barbara (2024)
+- BS in Statistics & Data Science with a minor in Feminist Studies @ UC Santa Barbara(2022)
 <!--
 **annieradams/annieradams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
