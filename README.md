@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi! I'm Annie Adams! </h1>
 
-<h3 align="center"> Recent Master of Environmental Data Science Graduate from the University of California, Santa Barbara (UCSB) 🌞 </h3>
+<h3 align="center"> Lecturer at the Bren School of Environmental Science and Management in Santa Barbara, California (UCSB) 🌞 </h3>
 
 <br>
 
