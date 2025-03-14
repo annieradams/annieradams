@@ -16,7 +16,6 @@
 I am a Lecturer at the Bren School of Environmental Science and Management! I specialize in the intersection of environmental science and data science, with expertise in:
 
 - Machine learning applications across diverse environmental domains,
-- Data visualization techniques that transform complex findings into actionable insights
 - Data storytelling techniques that translate complex environmental findings into compelling narratives for non-technical audiences, policymakers, and community stakeholders
 - Open science advocacy through reproducible workflows, version control, and collaborative coding practices, adapting to evolving data science standards while mentoring students in sustainable research 
   methodologies
