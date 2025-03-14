@@ -13,7 +13,15 @@
 
 ### What am I up to? 👩🏼‍🎓 🚵🏻‍♀️ 🌎
 
-I have recently graduated from the Unvierstity of California, Santa Barbara, receiving my Masters of Science in Environmental Data Science! I have learned lots in the areas of machine learning, data visualization, statistics, and environmental modeling! I am extremely motivated by the capabilities of data science and looking forward to doing meaningful work iin my career! 
+I am a Lecturer at the Bren School of Environmental Science and Management! I specialize in the intersection of environmental science and data science, with expertise in:
+
+- Machine learning applications across diverse environmental domains,
+- Data visualization techniques that transform complex findings into actionable insights
+- Data storytelling techniques that translate complex environmental findings into compelling narratives for non-technical audiences, policymakers, and community stakeholders
+- Open science advocacy through reproducible workflows, version control, and collaborative coding practices, adapting to evolving data science standards while mentoring students in sustainable research 
+  methodologies
+
+My work bridges the gap between cutting-edge data science and pressing environmental challenges. I'm passionate about empowering the next generation of environmental leaders with computational skills while developing innovative solutions to sustainability problems.
 
 In my spare time, I love to bike, hike, and camp! I am so lucky to live on the California Coast, where the sun is always shining (aside from some May gray and June gloom ⛅️). I love to travel abroad and try to visit a National Park in each new country I visit! 
 
